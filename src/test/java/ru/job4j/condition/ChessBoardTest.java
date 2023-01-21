@@ -1,7 +1,6 @@
-package ru.job4j.conditon;
+package ru.job4j.condition;
 
 import org.junit.jupiter.api.Test;
-import ru.job4j.condition.ChessBoard;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

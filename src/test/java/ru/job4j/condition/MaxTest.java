@@ -1,7 +1,7 @@
-package ru.job4j.conditon;
+package ru.job4j.condition;
 
 import org.junit.Test;
-import ru.job4j.condition.Max;
+
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class MaxTest {

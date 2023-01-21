@@ -1,8 +1,7 @@
-package ru.job4j.conditon;
+package ru.job4j.condition;
 
 import org.junit.Test;
 import static org.assertj.core.api.Assertions.assertThat;
-import ru.job4j.condition.DummyBot;
 
 public class DummyBotTest {
     @Test
